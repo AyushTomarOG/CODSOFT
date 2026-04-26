@@ -83,6 +83,7 @@ https://www.kaggle.com/code/ayushtomarog/titanic-survival-prediction-logistic-re
 2. Install dependencies:
    pip install pandas numpy scikit-learn
 3. Run the notebook file (.ipynb)
+4. Or simply just open the Kaggle Notebook and run it via Copy & Edit
 
 ---
 
